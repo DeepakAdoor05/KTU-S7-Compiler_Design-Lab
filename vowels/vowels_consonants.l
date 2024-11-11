@@ -9,9 +9,12 @@ int v=0, c=0;
 [bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ]  {c++;}
 %%
 
-int main()
+int main(int argc,char* argv[])
 {
-    printf("Enter a string:\n");
+    if(argc == 2)
+        yyin = fopen(argv[1],"r");
+    else
+        printf("Enter a string:\n");
     yylex();
     printf("No. of vowels = %d\n",v);
     printf("No of consonants = %d\n",c);
