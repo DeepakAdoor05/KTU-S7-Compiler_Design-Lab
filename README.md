@@ -11,3 +11,5 @@
 [5.Average of n numbers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/average_of_n)
 
 [6.Check prime or not](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/check_prime)
+
+[1.(b)Count using file](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/count%20using%20file)
