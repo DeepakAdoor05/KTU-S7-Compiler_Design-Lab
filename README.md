@@ -7,3 +7,5 @@
 [3.Substring "ABC" ](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/substring)
 
 [4.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
+
+[5.Average of n numbers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/average_of_n)
