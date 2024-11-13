@@ -1,3 +1,4 @@
+/*Lex program to check a number is prime or not.*/
 %{
 #include<stdio.h>
 #include<math.h>
