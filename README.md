@@ -15,3 +15,5 @@
 [6.Check prime or not](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/check_prime)
 
 [7.Recognize keywors, numbers, and words](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/blob/main/display)
+
+[8.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
