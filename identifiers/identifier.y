@@ -1,3 +1,5 @@
+/* Yacc program to check valid variable followed by letter or digits  */
+
 %{
 #include <stdio.h>
 

@@ -1,3 +1,5 @@
+/* Yacc program to check valid variable followed by letter or digits  */
+
 %{
 #include "y.tab.h"    /* Include the generated header for token declarations */
 %}
