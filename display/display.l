@@ -1,4 +1,4 @@
-/* lex program to recognise and display keywords, numbers, and words in a given statement */
+/* lex program to recognize and display keywords, numbers, and words in a given statement */
 
 %{
 #include <stdio.h>
@@ -14,7 +14,6 @@ printf   { printf("\n%s is a Keyword",yytext); }
 [0-9]+       { printf("\n%s is a Number", yytext); }
 [a-zA-Z]+    { printf("\n%s is a word", yytext); }
 .|\n         { ECHO; }  // "." represent do nothing if anything else has inputted excluding \n
-
 %%
 
 int main()
