@@ -1,3 +1,5 @@
+/*Lex program to convert the substring abc to ABC from the given input string.*/
+
 %{
 #include<stdio.h>
 int i;
@@ -16,16 +18,20 @@ int i;
     }
     printf("Result : %s",yytext);
 }
-[\t]*   return 1;
-.*      {ECHO;}
-\n      {printf("%s",yytext);}
 %%
+
 int main()
 {
-    printf("Enter a string:");
+    printf("Enter a string: ");
     yylex();
 }
 int yywrap()
 {
     return 1;
 }
+
+/*
+        OUTPUT
+Enter a string: school of abc
+Result : school of ABC
+*/
