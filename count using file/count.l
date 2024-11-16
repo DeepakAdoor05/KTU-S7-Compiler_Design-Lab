@@ -23,3 +23,11 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+        OUTPUT
+No. of new lines = 5
+No. of spaces = 6
+No. of characters = 62
+No. of words = 7
+*/
