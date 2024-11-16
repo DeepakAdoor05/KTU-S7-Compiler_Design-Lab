@@ -26,6 +26,7 @@ int yywrap()
 }
 
 /*
+        OUTPUT
 Enter a string:
 Hello
 ^Z("ctrl+z then Enter" -> for Windows and "ctrl+d" -> for Ubuntu)
