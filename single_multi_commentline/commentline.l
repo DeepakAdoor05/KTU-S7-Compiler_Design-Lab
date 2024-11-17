@@ -1,3 +1,5 @@
+/*Lex program to eliminate and count single and multiline comments in c program.*/
+
 %{
 #include<stdio.h>
 int ml=0,sl=0;
@@ -21,3 +23,14 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+        OUTPUT(Console)
+No. of single line comments are 2
+No. of multi line comments are 2
+        OUTPUT(file => output.c)
+#include<stdio.h>
+
+ int main()  {
+    printf("Hello, World!");  }
+*/
