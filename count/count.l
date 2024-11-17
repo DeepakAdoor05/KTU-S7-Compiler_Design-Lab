@@ -1,4 +1,5 @@
 /* Lex program to count the no of lines, spaces, characters,and words from a given statement */
+
 %{
 #include<stdio.h>
 int lc=0, sc=0, wc=0, cc=0;
@@ -23,3 +24,16 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+        OUTPUT
+Enter the statement:
+Hi
+Hello
+Good day
+^Z("ctrl+z then Enter" -> for Windows and "ctrl+d" -> for Ubuntu)
+No. of new lines = 3
+No. of spaces = 1
+No. of characters = 18
+No. of words = 4
+*/
