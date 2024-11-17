@@ -1,5 +1,4 @@
-/*Lex program to take check whether 
-the given number is even or odd */
+/*Lex program to take check whether the given number is even or odd */
    
 %{ 
 #include<stdio.h> 
@@ -17,10 +16,18 @@ int i;
    
 int yywrap(){} 
    
-/* Driver code */
 int main() 
 { 
-   
+    printf("Enter the no:\n");
     yylex(); 
     return 0; 
-} 
+}
+
+/*
+     OUTPUT
+Enter the no:
+3
+Odd
+4
+Even
+*/
