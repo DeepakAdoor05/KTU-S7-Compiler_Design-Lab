@@ -1,4 +1,5 @@
 /*Lex program to check a number is prime or not.*/
+
 %{
 #include<stdio.h>
 #include<math.h>
@@ -7,7 +8,7 @@ int i,n,flag;
 
 %%
 [0-9]+  {
-    printf("The no is %s\n",yytext);
+    printf("The number is %s\n",yytext);
     n= atoi(yytext);
     flag=0;
     for(i=2; i<=sqrt(n); i++)
@@ -33,3 +34,10 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+    OUTPUT
+Enter the no: 2
+The number is 2
+2 is a prime no
+*/
