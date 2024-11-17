@@ -1,6 +1,6 @@
 # KTU-S7-Compiler_Design-Lab
 # List of Programs
-[1.Count](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/count)
+[1.(a)Count](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/count)
 
 [1.(b)Count using file](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/count%20using%20file)
 
