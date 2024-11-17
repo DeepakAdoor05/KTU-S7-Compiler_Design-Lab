@@ -18,7 +18,7 @@ printf   { printf("\n%s is a Keyword",yytext); }
 
 int main()
 {
-    printf("\nEnter a string: ");
+    printf("\nEnter the string: ");
     yylex();
     return 0;
 }
@@ -27,3 +27,15 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+    OUTPUT
+
+Enter a string: if 30 greater than 20
+
+if is a Keyword
+30 is a Number
+greater is a word
+than is a word
+20 is a Number
+*/
