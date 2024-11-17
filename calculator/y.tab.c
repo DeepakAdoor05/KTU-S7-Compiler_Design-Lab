@@ -68,7 +68,7 @@
 /* Copy the first part of user declarations.  */
 
 /* Line 189 of yacc.c  */
-#line 1 "cal.y"
+#line 3 "cal.y"
 
 #include<stdio.h>
 int flag=0;
@@ -411,7 +411,7 @@ static const yytype_int8 yyrhs[] =
 /* YYRLINE[YYN] -- source line where rule number YYN was defined.  */
 static const yytype_uint8 yyrline[] =
 {
-       0,    16,    16,    20,    21,    22,    23,    24,    25,    26
+       0,    18,    18,    22,    23,    24,    25,    26,    27,    28
 };
 #endif
 
@@ -1315,7 +1315,7 @@ yyreduce:
         case 2:
 
 /* Line 1455 of yacc.c  */
-#line 16 "cal.y"
+#line 18 "cal.y"
     {
     printf("\nResult: %d\n",(yyval));
     return 0;
@@ -1325,49 +1325,49 @@ yyreduce:
   case 3:
 
 /* Line 1455 of yacc.c  */
-#line 20 "cal.y"
+#line 22 "cal.y"
     {(yyval)=(yyvsp[(1) - (3)])+(yyvsp[(3) - (3)]);}
     break;
 
   case 4:
 
 /* Line 1455 of yacc.c  */
-#line 21 "cal.y"
+#line 23 "cal.y"
     {(yyval)=(yyvsp[(1) - (3)])-(yyvsp[(3) - (3)]);}
     break;
 
   case 5:
 
 /* Line 1455 of yacc.c  */
-#line 22 "cal.y"
+#line 24 "cal.y"
     {(yyval)=(yyvsp[(1) - (3)])*(yyvsp[(3) - (3)]);}
     break;
 
   case 6:
 
 /* Line 1455 of yacc.c  */
-#line 23 "cal.y"
+#line 25 "cal.y"
     {(yyval)=(yyvsp[(1) - (3)])/(yyvsp[(3) - (3)]);}
     break;
 
   case 7:
 
 /* Line 1455 of yacc.c  */
-#line 24 "cal.y"
+#line 26 "cal.y"
     {(yyval)=(yyvsp[(1) - (3)])%(yyvsp[(3) - (3)]);}
     break;
 
   case 8:
 
 /* Line 1455 of yacc.c  */
-#line 25 "cal.y"
+#line 27 "cal.y"
     {(yyval)=(yyvsp[(2) - (3)]);}
     break;
 
   case 9:
 
 /* Line 1455 of yacc.c  */
-#line 26 "cal.y"
+#line 28 "cal.y"
     {(yyval)=(yyvsp[(1) - (1)]);}
     break;
 
@@ -1586,12 +1586,12 @@ yyreturn:
 
 
 /* Line 1675 of yacc.c  */
-#line 28 "cal.y"
+#line 30 "cal.y"
 
 
 void main()
 {
-    printf("Enter any Arithmetic Expression\n");
+    printf("Enter any Arithmetic Expression:\n");
     yyparse();
     if(flag == 0)
     {

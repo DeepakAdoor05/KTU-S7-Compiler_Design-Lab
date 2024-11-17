@@ -1,3 +1,6 @@
+/* Program for implementing a calculator for computing the given expression using YACC and LEX  */
+/*YACC code*/
+
 %{
 #include<stdio.h>
 int flag=0;
@@ -29,7 +32,7 @@ E:E '+' E   {$$=$1+$3;}
 
 void main()
 {
-    printf("Enter any Arithmetic Expression\n");
+    printf("Enter any Arithmetic Expression:\n");
     yyparse();
     if(flag == 0)
     {
@@ -43,3 +46,12 @@ void yyerror()
     printf("It's an invalid arithmetic expression\n");
     flag=1;
 }
+
+/*
+        OUTPUT
+Enter any Arithmetic Expression:
+4+(1*2)
+
+Result: 6
+It's a valid arithmetic expression
+*/
