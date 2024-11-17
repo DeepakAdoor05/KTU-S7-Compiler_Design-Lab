@@ -8,12 +8,12 @@
 
 [3.Substring "ABC" ](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/substring)
 
-[4.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
+[4.Average of n numbers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/average_of_n)
 
-[5.Average of n numbers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/average_of_n)
+[5.Check prime or not](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/check_prime)
 
-[6.Check prime or not](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/check_prime)
+[6.Recognize keywors, numbers, and words](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/blob/main/display)
 
-[7.Recognize keywors, numbers, and words](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/blob/main/display)
+[7.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
 
-[8.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
+[8.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
