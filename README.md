@@ -17,3 +17,5 @@
 [7.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
 
 [8.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
+
+[9.Odd or Even](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/odd_or_even)
