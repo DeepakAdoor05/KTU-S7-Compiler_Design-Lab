@@ -1,3 +1,4 @@
+/* Lex program to check palindrome and display the length. */
 %{
 #include<stdio.h>
 #include<string.h>
@@ -32,3 +33,10 @@ int yywrap()
 {
     return 1;
 }
+
+/*
+        OUTPUT
+Enter a string: malayalam
+malayalam is a palindrome
+The length of the string is 9
+*/
