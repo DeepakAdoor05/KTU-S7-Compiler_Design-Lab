@@ -20,8 +20,10 @@
 
 [9.Find the longest name](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/longest_string)
 
-[10.Palindrome](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/palindrome)
+[10.Single_line and multi_line comment](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/single_multi_commentline)
 
-[11.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
+[11.Palindrome](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/palindrome)
 
-[12.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
+[12.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
+
+[13.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
