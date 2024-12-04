@@ -38,3 +38,12 @@ int main()
         printf("It's an identifier\n");
     return 0;
 }
+
+/*
+        OUTPUT
+Enter a string: hello_123
+It's an identifier
+
+Enter a string: 12hello
+It's not an identifier
+*/
