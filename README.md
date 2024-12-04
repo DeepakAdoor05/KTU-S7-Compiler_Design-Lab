@@ -14,12 +14,12 @@
 
 [6.Recognize keywors, numbers, and words](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/blob/main/display)
 
-[7.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
+[7.Odd or Even](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/odd_or_even)
 
-[8.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
+[8.Identify letters and digits](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/digits%20and%20alphabets)
 
-[9.Odd or Even](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/odd_or_even)
+[9.Find the longest name](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/longest_string)
 
-[10.Identify letters and digits](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/digits%20and%20alphabets)
+[10.Identifiers](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/identifiers)
 
-[11.Find the longest name](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/longest_string)
+[11.Calculator](https://github.com/DeepakAdoor05/KTU-S7-Compiler_Design-Lab/tree/main/calculator)
